@@ -3,6 +3,10 @@
  	easing: 'slide'
  });
 
+ $.Scrollax({
+	horizontal: false // Disable horizontal scrolling for Scrollax
+  });
+  
 (function($) {
 
 	"use strict";
