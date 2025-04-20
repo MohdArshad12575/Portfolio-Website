@@ -8391,7 +8391,7 @@ h1, h2, h3, h4, h5,
 
 .texthomesection {
   width: 100%;
-  margin-left: 1.5rem;
+  margin-left: 10px;
   margin-top: 4rem;
 }
 .hero h3.vr {
@@ -8531,7 +8531,7 @@ h1, h2, h3, h4, h5,
               right: 0;
               bottom: 0;
               z-index: 1;
-              padding: 1em; } }
+              padding: 10px; } }
           .owl-carousel.home-slider .slider-item .slider-text .one-forth .text {
             width: 100%; }
             @media (min-width: 992px) {
